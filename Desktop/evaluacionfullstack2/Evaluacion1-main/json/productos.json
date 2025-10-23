@@ -1,0 +1,88 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Ropa interior 1",
+      "precio": 2990,
+      "foto": "img/producto1.png",
+      "descripcion": "Ropa interior cómoda de algodón para uso diario."
+    },
+    {
+      "id": 2,
+      "nombre": "Ropa interior 2",
+      "precio": 2990,
+      "foto": "img/producto2.png",
+      "descripcion": "Diseño clásico con costuras reforzadas."
+    },
+    {
+      "id": 3,
+      "nombre": "Ropa interior 3",
+      "precio": 2990,
+      "foto": "img/producto3.png",
+      "descripcion": "Tela fresca y transpirable, ideal para verano."
+    },
+    {
+      "id": 4,
+      "nombre": "Ropa interior 4",
+      "precio": 2990,
+      "foto": "img/producto4.png",
+      "descripcion": "Diseño juvenil con estilo moderno."
+    },
+    {
+      "id": 5,
+      "nombre": "Ropa interior 5",
+      "precio": 2990,
+      "foto": "img/producto5.png",
+      "descripcion": "Tejido suave que no irrita la piel."
+    },
+    {
+      "id": 6,
+      "nombre": "Ropa interior 6",
+      "precio": 2990,
+      "foto": "img/producto6.png",
+      "descripcion": "Modelo clásico con ajuste perfecto."
+    },
+    {
+      "id": 7,
+      "nombre": "Ropa interior 7",
+      "precio": 2990,
+      "foto": "img/producto7.png",
+      "descripcion": "Estilo elegante con detalles minimalistas."
+    },
+    {
+      "id": 8,
+      "nombre": "Ropa interior 8",
+      "precio": 2990,
+      "foto": "img/producto8.png",
+      "descripcion": "Ideal para uso deportivo, absorbe la humedad."
+    },
+    {
+      "id": 9,
+      "nombre": "Ropa interior 9",
+      "precio": 2990,
+      "foto": "img/producto9.png",
+      "descripcion": "Combinación de algodón y elastano para mayor flexibilidad."
+    },
+    {
+      "id": 10,
+      "nombre": "Ropa interior 10",
+      "precio": 2990,
+      "foto": "img/producto10.png",
+      "descripcion": "Costuras planas para evitar roces molestos."
+    },
+    {
+      "id": 11,
+      "nombre": "Ropa interior 11",
+      "precio": 2990,
+      "foto": "img/producto11.png",
+      "descripcion": "Diseño clásico en colores neutros."
+    },
+    {
+      "id": 12,
+      "nombre": "Ropa interior 12",
+      "precio": 2990,
+      "foto": "img/producto12.png",
+      "descripcion": "Confección de alta calidad y durabilidad."
+    }
+  ]
+}

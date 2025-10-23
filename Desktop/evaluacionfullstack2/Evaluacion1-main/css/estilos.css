@@ -1,0 +1,97 @@
+/*HOME */
+
+
+/* body  */
+body.Home {
+  background-color: #f14b86; /* rosa pastel */
+  color: #111111; /* texto negro */
+}
+
+  
+
+/* card */
+.card{
+    height: 350px;
+    border-radius: 12px;
+    overflow: hidden;
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+.card:hover {
+  transform: scale(1.08); /* zoom in */
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.25);
+  z-index: 10;
+}
+
+
+.card-img-top {
+  width: 100%;        /* ocupa todo el ancho de la card */
+  height: 200px;      /* alto fijo para todas */
+  object-fit: cover;  /* recorta sin deformar */
+  cursor: pointer;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-body .card-text {
+  margin-top: auto;   /* empuja hacia abajo */
+  text-align: right;  /* alinea a la derecha */
+}
+
+
+/* formualrio registro  */
+.navbar-nav{
+  justify-content: center; /* centra horizontalmente */
+  align-items: center; 
+}
+
+form {
+  color: black; /* todo el texto dentro del formulario será negro */
+}
+
+#region,
+#comuna {
+  min-width: 280px;  /* ancho mínimo de la caja */
+  padding: 8px;      /* un poco más de espacio interno */
+  font-size: 16px;   /* texto más legible */
+}
+.d-flex {
+  justify-content: center; /* centra horizontalmente */
+  align-items: center;     /* centra verticalmente */
+  margin-top: 30px;        /* separación respecto a la caja de arriba */
+}
+
+/*formulario inicio sesion */ 
+body {
+  background-color: #f14b86; /* rosa pastel */
+  color: #111111; /* texto negro */
+}
+
+/*container */
+.formulario-fondo {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  max-width: 800px;   /* antes 700px → más ancho */
+  margin: 50px auto;
+}
+
+.btn {
+  background-color: #504e4e;
+}
+
+.imagen-centro {
+  display: flex;
+  justify-content: center; /* centra horizontal */
+  align-items: center;     /* centra vertical si el contenedor tiene altura */
+  margin: 10px 0;          /* espacio arriba y abajo */
+}
+
+.imagen-centro img {
+  max-width: 400px;        /* tamaño máximo de la imagen */
+  height: auto;
+}
